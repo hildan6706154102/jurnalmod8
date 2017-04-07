@@ -24,6 +24,6 @@ function printFibonacci($n)
   
 /* Function call to print Fibonacci series upto 4 numbers. */
  
-printFibonacci(7);
+printFibonacci(4);
 
 ?>
